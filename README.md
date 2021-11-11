@@ -1,3 +1,13 @@
+# A Quick Start Guide To Gatsby and Contentful
+
+👀 See the preview: [https://contentfulquickstart.gatsbyjs.io/](https://contentfulquickstart.gatsbyjs.io/)
+
+📝 Read the post on the Gatsby Blog: [A Quick Start Guide To Gatsby and Contentful](https://www.gatsbyjs.com/blog/a-quick-start-guide-to-gatsby-and-contentful)
+
+⚙️ This repo is based on [Gatsby's minimal demo](https://github.com/gatsby-inc/gatsby-demo-minimal)
+
+<hr />
+
 <p align="center">
   <a href="https://www.gatsbyjs.com">
     <img alt="Gatsby" src="https://www.gatsbyjs.com/Gatsby-Monogram.svg" width="60" />
